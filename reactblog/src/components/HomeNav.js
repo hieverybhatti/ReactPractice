@@ -1,6 +1,6 @@
 // import { withRouter } from "react-router-dom"
 
-export default function NavLayout1() {
+export default function HomeNav() {
     return (
         <header className = "danielpoopoo">
              <a href="https://www.w3schools.com/"> Home</a>

@@ -1,11 +1,11 @@
-import NavLayout1 from "./NavLayout1";
+import HomeNav from "./HomeNav";
 
 function Home() {
     return (
         <div className="home">
-            <NavLayout1/>
+            <HomeNav/>
             <div className = "portrait-circle">
-                <h1> Haris bhatti  poopy </h1>
+                <h1> Haris bhatti</h1>
             </div>
         </div>
     );

@@ -1,13 +1,10 @@
 import './App.css';
-import Home from './Home.js';
+import MemeGen from './components/MemeGen';
 // https://api.imgflip.com/get_memes
 function App() {
   return (
     <div className="App">
-    <Home/>
-      <body>
-        <p>Daniel is so cool bro. Wiild</p>
-      </body>
+    <MemeGen/>
     </div>
   );
 }
